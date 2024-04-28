@@ -18,14 +18,12 @@ npm i
 ``````
 //PORT = 5000
 
-2. //CLIENT_URL = http://localhost:3000
-
-3. run the backend Server
+2. run the backend Server
 
 ```
 npm start
 ```
-4. API ENDPOINTS
+3. API ENDPOINTS
 
 1. USER API
 Using Passport js for Authentication Process
@@ -51,7 +49,7 @@ Using Passport js for Authentication Process
 } 
 
 
-//BOOK API
+2. BOOK API
 
 ##EndPoint Book
 
